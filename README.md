@@ -1,6 +1,6 @@
 # William de los Santos 2021 1368
 
-## parte 1.1 a 1.5
+## Completo 1.6 al 1.14
 
 
 
